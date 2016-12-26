@@ -7,7 +7,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@id/ok"
-        android:layout_centerVertical="true" />
+        android:layout_centerVertical="true" 
+        android:text=""/>
     <TextView
         android:id="@+id/label"
         android:layout_width="fill_parent"
