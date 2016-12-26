@@ -57,11 +57,36 @@ namespace SC
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f050001
+			public const int entry = 2131034113;
+			
+			// aapt resource value: 0x7f050000
+			public const int label = 2131034112;
+			
+			// aapt resource value: 0x7f050002
+			public const int ok = 2131034114;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
 			// aapt resource value: 0x7f030000
 			public const int Main = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int NewGame = 2130903041;
 			
 			static Layout()
 			{
