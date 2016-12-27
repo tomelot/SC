@@ -28,4 +28,10 @@
     android:layout_height="wrap_content"
     android:background="@android:drawable/editbox_background"
     android:layout_below="@id/TeamMumber3" />
+  <EditText
+    android:id="@+id/TeamMumber4"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/editbox_background"
+    android:layout_below="@id/TeamMumber4" />
 </RelativeLayout>
