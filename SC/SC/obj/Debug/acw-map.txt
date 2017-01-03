@@ -1,0 +1,4 @@
+SC.MainActivity, SC;md5da8c44f1dcb7aed49aa8abe2e23629a3.MainActivity
+SC.MainActivity, SC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5da8c44f1dcb7aed49aa8abe2e23629a3.MainActivity
+SC.MainActivity;md5da8c44f1dcb7aed49aa8abe2e23629a3.MainActivity
+sc.MainActivity;md5da8c44f1dcb7aed49aa8abe2e23629a3.MainActivity
